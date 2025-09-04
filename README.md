@@ -52,4 +52,7 @@ Response:
 - If you see a port conflict error, change the port number in the script.
 
 ## Screenshots
-(Add your browser screenshots here showing successful response and 404 error.)
+
+![Successfull request](Screenshots/one.png)
+
+![File not found](Screenshots/two.png)
