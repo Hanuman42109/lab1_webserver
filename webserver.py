@@ -33,6 +33,7 @@ while True:
         connectionSocket.send("\r\n".encode())
 
         connectionSocket.close()
+    
     except IOError:
         # Send response message for file not found
         # Fill in start
@@ -46,4 +47,5 @@ while True:
         # Fill in end
 
 serverSocket.close()
+
 sys.exit()  # Terminate the program after sending the corresponding data
