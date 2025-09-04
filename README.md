@@ -50,9 +50,3 @@ Response:
 - The default port is `6789`. You can change this in the code if needed.
 - To stop the server, press `Ctrl + C` in the terminal.
 - If you see a port conflict error, change the port number in the script.
-
-## Screenshots
-
-![Successfull request](Screenshots/one.png)
-
-![File not found](Screenshots/two.png)
