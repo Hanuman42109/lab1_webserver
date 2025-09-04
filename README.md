@@ -1,4 +1,4 @@
-# Web Server Lab
+# Lab 1 - Web Server
 
 ## Overview
 This project implements a simple web server using Python socket programming.  
